@@ -10,8 +10,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg"/>
-  <img align="center" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-plain.svg"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-plain.svg"/>
+  <img align="center" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
